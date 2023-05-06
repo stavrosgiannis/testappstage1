@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "F55H5QZi9uam64VPCRewA4Rx/o9Up//PZc8ufQoiB68=",
+  "Source": "Boilerplate",
+  "BasePath": "_content/Boilerplate",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Boilerplate\\wwwroot",
+      "Source": "Boilerplate",
+      "ContentRoot": "C:\\Users\\hacke\\source\\repos\\Boilerplate\\wwwroot\\",
+      "BasePath": "_content/Boilerplate",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\hacke\\source\\repos\\Boilerplate\\wwwroot\\favicon.ico",
+      "SourceId": "Boilerplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hacke\\source\\repos\\Boilerplate\\wwwroot\\",
+      "BasePath": "_content/Boilerplate",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

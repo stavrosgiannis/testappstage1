@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+V2HGPqi6bhJGDLgf087/v2KM4G1omqN1fOcrJuFXNgV59R9oHV9vHGaKS2//0yEGfEWWhGLDc9mv/b5PN8BnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hacke\\source\\repos\\Boilerplate\\Boilerplate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hacke\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\6.0.14\\microsoft.aspnetcore.spaproxy.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
